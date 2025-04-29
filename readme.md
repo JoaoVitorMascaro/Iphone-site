@@ -1,7 +1,7 @@
 # Iphone-site
-
 ## Sobre o projeto
 
-oioioioioio
+Um projeto pequeno para estudo de HTML e CSS, tentei recriar uma landing page que encontrei
+na internet, por enquanto está sem funcionalidade, mas pretendo atualiza-la logo.
 
-<img src="https://static-cse.canva.com/blob/759754/IMAGE1.jpg">
+<img src="../Iphone-site/img/>
